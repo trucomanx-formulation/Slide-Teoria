@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="libpdslogo.svg"
+   inkscape:export-filename="/media/fernando/FER8G-BTRFS/PROGRAMACION/NONGNU.ORG/PDS-PROJECT-LIBRARY/PDSBA/libpdsba/manual/imagenes/libpdslogo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title3009">PDS</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5433">
+      <stop
+         style="stop-color:#e3dbde;stop-opacity:1;"
+         offset="0"
+         id="stop5435" />
+      <stop
+         style="stop-color:#e3dbde;stop-opacity:0;"
+         offset="1"
+         id="stop5437" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5427"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop5429" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5433"
+       id="linearGradient5441"
+       x1="1.8940361"
+       y1="32.117062"
+       x2="61.871841"
+       y2="32.117062"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.001172,0,0,1.0092788,0.01969428,987.75465)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-38.965177"
+     inkscape:cy="70.191897"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1197"
+     inkscape:window-height="748"
+     inkscape:window-x="83"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PDS</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fernando Pujaico Rivera</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36218)">
+    <rect
+       style="fill:#e1d9e0;fill-opacity:1;stroke:#000000;stroke-width:2.01130176;stroke-opacity:1"
+       id="rect3017"
+       width="125.9672"
+       height="125.96425"
+       x="1.0214777"
+       y="925.37646"
+       ry="16.82922" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.48609161px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="8.3437738"
+       y="833.25391"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       transform="scale(0.87691356,1.1403632)"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="8.3437738"
+         y="833.25391"><tspan
+   style="fill:#000000"
+   id="tspan2993">x</tspan><tspan
+   style="fill:#0000ff"
+   id="tspan2991">=</tspan>(<tspan
+   style="fill:#000000"
+   id="tspan2989">1 0 1 1</tspan>)</tspan></text>
+    <g
+       id="g5570"
+       transform="matrix(2.0008867,0,0,2.0008384,4.012688,-1051.7027)">
+      <text
+         transform="scale(0.87690299,1.140377)"
+         sodipodi:linespacing="125%"
+         id="text2985-3"
+         y="904.7876"
+         x="38.885921"
+         style="font-style:normal;font-weight:normal;font-size:10.23863029px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="fill:#000000"
+           y="904.7876"
+           x="38.885921"
+           id="tspan2987-6"
+           sodipodi:role="line"> 1 0</tspan><tspan
+           style="fill:#000000"
+           id="tspan5485"
+           y="917.58588"
+           x="38.885921"
+           sodipodi:role="line"> 1 1</tspan></text>
+      <text
+         transform="scale(0.87690299,1.140377)"
+         sodipodi:linespacing="125%"
+         id="text2985-7"
+         y="911.19189"
+         x="18.726713"
+         style="font-style:normal;font-weight:normal;font-size:10.23863029px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="911.19189"
+           x="18.726713"
+           id="tspan2987-0"
+           sodipodi:role="line"><tspan
+             id="tspan2991-5"
+             style="fill:#0000ff"><tspan
+   id="tspan5517"
+   style="fill:#000000">A</tspan>=</tspan></tspan></text>
+      <text
+         transform="scale(0.73972338,1.3518567)"
+         sodipodi:linespacing="125%"
+         id="text2985-2"
+         y="771.68103"
+         x="39.98035"
+         style="font-style:normal;font-weight:normal;font-size:19.75366974px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="771.68103"
+           x="39.98035"
+           id="tspan2987-9"
+           sodipodi:role="line">(</tspan></text>
+      <text
+         transform="scale(0.73972338,1.3518567)"
+         sodipodi:linespacing="125%"
+         id="text2985-2-0"
+         y="771.57263"
+         x="73.9664"
+         style="font-style:normal;font-weight:normal;font-size:19.75366974px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="771.57263"
+           x="73.9664"
+           id="tspan2987-9-4"
+           sodipodi:role="line">)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.51753998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="8.4074936"
+       y="840.89636"
+       id="text2985-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.84445908,1.18419)"><tspan
+         sodipodi:role="line"
+         id="tspan2987-2"
+         x="8.4074936"
+         y="840.89636"><tspan
+   style="fill:#000000"
+   id="tspan2993-9">0</tspan>?<tspan
+   style="fill:#000000"
+   id="tspan2989-2">1</tspan></tspan></text>
+  </g>
+</svg>
